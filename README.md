@@ -1,5 +1,5 @@
-# next_generation_ui
+# Next Generation UI
 Next generation user interface from google codelab
 
-## preview
+## Preview
 ![til](./preview.gif)
